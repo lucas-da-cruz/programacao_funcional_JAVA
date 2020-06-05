@@ -2,9 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d970b5fc-e893-4ccf-ab05-9faf86750378" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/application/CreateStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/application/InterfaceConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/application/InterfaceFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/application/InterfacePredicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/application/PipelineDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/application/PrimeiraOrdem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/application/UsaServiceProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/delete/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/ProductConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/ProductFunctionUpperCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/ProductPredicate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/application/MyComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/MyComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/programacao_funcional_java/application/MyComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/programacao_funcional_java/application/MyComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/programacao_funcional_java/application/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/programacao_funcional_java/entities/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/programacao_funcional_java/entities/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/LambdaArrowFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entities/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entities/Product.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +29,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -22,7 +38,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1crFuSwbqrSc7LVEGLEJIgmIh64" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -32,9 +50,61 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager">
-    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="application.Program" />
+  <component name="RunManager" selected="Application.PipelineDemo">
+    <configuration name="CreateStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="application.CreateStream" />
+      <module name="programacao_funcional_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InterfaceConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="application.InterfaceConsumer" />
+      <module name="programacao_funcional_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InterfaceFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="application.InterfaceFunction" />
+      <module name="programacao_funcional_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PipelineDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="application.PipelineDemo" />
+      <module name="programacao_funcional_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UsaServiceProduct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="application.UsaServiceProduct" />
       <module name="programacao_funcional_java" />
       <extension name="coverage">
         <pattern>
@@ -48,7 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Program" />
+        <item itemvalue="Application.PipelineDemo" />
+        <item itemvalue="Application.CreateStream" />
+        <item itemvalue="Application.UsaServiceProduct" />
+        <item itemvalue="Application.InterfaceFunction" />
+        <item itemvalue="Application.InterfaceConsumer" />
       </list>
     </recent_temporary>
   </component>
@@ -78,13 +152,57 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser" timestamp="1591365493989">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1591365493989" />
     <state x="463" y="82" key="FileChooserDialogImpl" timestamp="1591279414013">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="82" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1591279414013" />
+    <state width="1323" height="161" key="GridCell.Tab.0.bottom" timestamp="1591376066586">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="161" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-220.1680.1010@0.0.1366.728" timestamp="1591319467720" />
+    <state width="1323" height="161" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591376066586" />
+    <state width="1323" height="161" key="GridCell.Tab.0.center" timestamp="1591376066586">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="161" key="GridCell.Tab.0.center/0.0.1366.728/1366.-220.1680.1010@0.0.1366.728" timestamp="1591319467720" />
+    <state width="1323" height="161" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591376066586" />
+    <state width="1323" height="161" key="GridCell.Tab.0.left" timestamp="1591376066586">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="161" key="GridCell.Tab.0.left/0.0.1366.728/1366.-220.1680.1010@0.0.1366.728" timestamp="1591319467720" />
+    <state width="1323" height="161" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591376066586" />
+    <state width="1323" height="161" key="GridCell.Tab.0.right" timestamp="1591376066586">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="161" key="GridCell.Tab.0.right/0.0.1366.728/1366.-220.1680.1010@0.0.1366.728" timestamp="1591319467720" />
+    <state width="1323" height="161" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591376066586" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1591363905358">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591363905358" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1591363905358">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1591363905358" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1591363905358">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1591363905358" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1591363905358">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1591363905358" />
     <state x="348" y="64" key="NewModule_or_Project.wizard" timestamp="1591279427192">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="348" y="64" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1591279427192" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1591375488229">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1591375488229" />
   </component>
 </project>

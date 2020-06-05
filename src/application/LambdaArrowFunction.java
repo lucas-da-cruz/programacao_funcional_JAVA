@@ -6,7 +6,7 @@ import java.util.List;
 
 import entities.Product;
 
-public class Program {
+public class LambdaArrowFunction {
 
     public static void main(String[] args) {
 
@@ -15,6 +15,7 @@ public class Program {
         list.add(new Product("TV", 900.00));
         list.add(new Product("Notebook", 1200.00));
         list.add(new Product("Tablet", 450.00));
+        list.add(new Product("Celular", 1000.00));
 
         /**
          * Definindo um objeto do tipo Comparator<Product>
